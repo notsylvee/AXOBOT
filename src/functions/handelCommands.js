@@ -3,7 +3,7 @@ const { Routes } = require('discord-api-types/v9');
 const { SlashCommandBuilder } = require("discord.js");
 const fs = require('fs');
 
-const clientId = '1394598431942643712'; 
+const clientId = '1398434167339089950'; 
 const guildId = 'YOUR GUILD ID'; 
 
 module.exports = (client) => {
